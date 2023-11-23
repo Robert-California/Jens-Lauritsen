@@ -17,3 +17,4 @@ Hey there! I'm Jens, a passionate Computer Science student hailing from the beau
 </p>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jens-Lauritsen&theme=calm&hide_border=true&card_width=500)](https://git.io/streak-stats)
 
+
