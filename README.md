@@ -1,5 +1,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jens-Lauritsen&theme=calm&hide_border=true&card_width=500)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jens-Lauritsen)](https://github.com/Jens-Lauritsen/github-readme-stats)
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jens Lauritsen
 ======================================================================================================================================
 
