@@ -8,7 +8,7 @@ Hey there! I'm Jens, a passionate Computer Science student hailing from the beau
 
 * 🌍  I'm based in Denmark, Odense
 * ✉️  You can contact me at [jens.bech.lauritsen@gmail.com](mailto:jens.bech.lauritsen@gmail.com)
-* 🧠  I'm currently learning NativeScript & Flutter
+* 🧠  I'm currently learning NativeScript & C++
 
 ### Skills
 
