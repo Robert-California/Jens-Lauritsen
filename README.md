@@ -1,6 +1,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jens-Lauritsen&theme=calm&hide_border=true&card_width=500)](https://git.io/streak-stats)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jens Lauritsen
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+My name is Jens Lauritsen
 ======================================================================================================================================
 
 Hey there! I'm Jens, a passionate Computer Science student hailing from the beautiful country of Denmark. As someone deeply immersed in the world of technology, I find joy in exploring both the backend and frontend aspects of software development.
