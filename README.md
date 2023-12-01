@@ -1,4 +1,4 @@
-Hey there! I'm a passionate Computer Science student hailing from the beautiful country of Denmark. As someone deeply immersed in the world of technology, I find joy in exploring both the backend and frontend aspects of software development.
+Hey there! I'm a passionate Computer Science student hailing from the beautiful country of Denmark. As someone deeply immersed in the world of technology, I find joy in exploring both the backend and frontend aspects of software development
 
 * 🌍  I'm based in Denmark, odense
 * 🧠  I'm learning NativeScript & Flutter
