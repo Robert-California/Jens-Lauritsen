@@ -1,8 +1,4 @@
-Hey there! I'm a passionate software development student hailing from the beautiful country of Denmark. As someone deeply immersed in the world of technology, I find joy in exploring both the backend and frontend aspects of software development
 
-* 🌍  I'm based in Denmark, odense
-* 🧠  I'm currently learning DS & ML with python
-* 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 
