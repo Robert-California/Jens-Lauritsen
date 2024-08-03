@@ -9,4 +9,3 @@ src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/publi
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jens-Lauritsen&theme=github-compact)](https://github.com/Jens-Lauritsen/github-readme-activity-graph)
 
-<a href="https://github.com/Jens-Lauritsen" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jens-Lauritsen&langs_count=10&title_color=facc15&text_color=facc15&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
